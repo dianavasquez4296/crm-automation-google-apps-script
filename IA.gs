@@ -83,7 +83,7 @@ const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-
 function guardarApiKey() {
   PropertiesService.getScriptProperties().setProperty(
     'GEMINI_API_KEY',
-    'AIzaSyA3CXkPQWH0-chfvIvShc4_Ei0uvzE8PRA'
+    'AIzaSyB4z3Ez9p4maWrEqprThFg73i_lQuTHdo0'
   );
   Logger.log('✅ API key guardada');
 }
