@@ -59,4 +59,5 @@ Most businesses lose leads because follow-up is slow or inconsistent. This syste
 
 Diana Vasquez — Automation Engineer specialized in Google Apps Script, Gemini AI, and no-code workflow systems.
 
-[Upwork Profile](https://www.upwork.com/freelancers/dianavasquez)
+[[Upwork Profile](https://www.upwork.com/freelancers/dianavasquez)
+](https://www.upwork.com/freelancers/~01877a92e45e74695a?mp_source=share)
